@@ -1,0 +1,23 @@
+{
+    "__default__":
+    {
+        "account": "weimergrp",
+        "mem": "3G",
+        "time": "1:0:0"
+    },
+    "trim_isolate":
+    {
+        "time": "0:30:0",
+        "mem": "4G"
+    },
+    "assemble_isolate":
+    {
+        "time": "0:20:0",
+        "mem": "4G"
+    },
+    "prokka_annotation":
+    {   
+        "time": "0:25:0",
+        "mem": "4G"
+    }
+}

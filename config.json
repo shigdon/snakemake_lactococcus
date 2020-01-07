@@ -1,0 +1,5 @@
+{
+    "reads": "reads/",
+    "outdir": "results/",
+    "database": "/path/to/pfam"
+}
