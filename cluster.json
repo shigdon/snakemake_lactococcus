@@ -19,5 +19,20 @@
     {   
         "time": "0:25:0",
         "mem": "4G"
+    },
+    "prokka_gb_asm":
+    {   
+        "time": "0:25:0",
+        "mem": "4G"
+    },
+    "roary":
+    {   
+        "time": "1:0:0",
+        "mem": "16G"
+    },
+    "smash_lca_classify":
+    {   
+        "time": "0:25:0",
+        "mem": "16G"
     }
 }
